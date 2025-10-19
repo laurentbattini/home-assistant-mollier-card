@@ -1,10 +1,10 @@
 {
   "domain": "mollier_card",
   "name": "Mollier Card",
-  "version": "1.0.0",
+  "version": "0.0.3",
   "documentation": "https://github.com/TON_UTILISATEUR/home-assistant-mollier-card",
   "dependencies": [],
-  "codeowners": ["@TON_UTILISATEUR"],
+  "codeowners": ["@laurentbattini"],
   "requirements": [],
   "config_flow": false,
   "iot_class": "local_polling",
