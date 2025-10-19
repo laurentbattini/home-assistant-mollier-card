@@ -1,7 +1,7 @@
 {
   "domain": "mollier_card",
   "name": "Mollier Card",
-  "version": "0.0.5",
+  "version": "1.0.5",
   "documentation": "https://github.com/laurentbattini/home-assistant-mollier-card",
   "dependencies": [],
   "codeowners": ["@laurentbattini"],
