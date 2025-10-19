@@ -1,0 +1,9 @@
+{
+  "name": "Mollier Card",
+  "content_in_root": true,
+  "homeassistant": "frontend",
+  "render_readme": true,
+  "domains": ["lovelace"],
+  "filename": "mollier-card.js",
+  "zip_release": false
+}
